@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@kibou/three-orbitcontrols-ts": "^0.2.8",
+    "@react-three/drei": "^7.12.6",
+    "@react-three/fiber": "^7.0.10",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.1",
+    "three": "^0.133.1",
+    "three-orbitcontrols-ts": "^0.1.2"
   },
   "devDependencies": {
     "eslint": "7.32.0",
